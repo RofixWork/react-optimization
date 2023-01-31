@@ -1,0 +1,15 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+.btn {
+  background-color: coral;
+  color: white;
+  border: 0;
+  outline: 0;
+  cursor: pointer;
+  padding: 10px 14px;
+  border-radius: 5px;
+  font-family: Arial, Helvetica, sans-serif;
+  display: block;
+}
